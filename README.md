@@ -1,2 +1,2 @@
-# baerd-voice-assistant
+# bard-voice-assistant
  
